@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
@@ -9,4 +10,17 @@
     <url>
         <loc>https://casos-coronavirus.info/index.html</loc>
     </url>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://casos-coronavirus.info/</loc>
+    </url>
+    <url>
+        <loc>https://casos-coronavirus.info/</loc>
+    </url>
+    <url>
+        <loc>https://casos-coronavirus.info/index.html</loc>
+    </url>
+>>>>>>> 733ffb65047a55f495539054bcb3db0753449549
 </urlset>
